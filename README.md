@@ -1,4 +1,4 @@
-Development
+Production
 
 This is a very basic messaging app that aims to enable a business to have an internal office messaging app. It can function even if the users are on different networks, the server side off the code will just have to be hosted on some cloud computing platform for that.
 

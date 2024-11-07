@@ -1,11 +1,13 @@
+
 Production
 
 This is a very basic messaging app that aims to enable a business to have an internal office messaging app. It can function even if the users are on different networks, the server side off the code will just have to be hosted on some cloud computing platform for that.
 
 Our problem solving approach included doing research about how socket objects and ports work and how to implement it and how to host a server and what the different cloud computing options are. With this research as background we then implemented our solution.
 
+---
 
-# 📧 Internal Office Messaging App
+# 📧 Internal Office Messaging App || Author-Therese Taylor
 
 Welcome to the **Internal Office Messaging App**, a streamlined solution for office communication. This application facilitates seamless messaging between employees, even across different networks by utilizing a client-server architecture.
 
@@ -107,30 +109,6 @@ Messaging-App/
 └── README.md       # Project documentation
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! If you’d like to improve **Internal Office Messaging App**, please follow these steps:
-
-1. **Fork the repository** and clone it locally.
-2. **Create a new branch** for your feature:
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit your changes**:
-
-   ```bash
-   git commit -m 'Add new feature'
-   ```
-
-4. **Push to the branch**:
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Create a Pull Request** explaining your changes.
 
 ## 📜 License
 

@@ -1,23 +1,14 @@
+# 📧 Internal Office Messaging App 
 
-Production
-
-This is a very basic messaging app that aims to enable a business to have an internal office messaging app. It can function even if the users are on different networks, the server side off the code will just have to be hosted on some cloud computing platform for that.
-
-Our problem solving approach included doing research about how socket objects and ports work and how to implement it and how to host a server and what the different cloud computing options are. With this research as background we then implemented our solution.
-
----
-
-# 📧 Internal Office Messaging App || Author-Therese Taylor
-
-Welcome to the **Internal Office Messaging App**, a streamlined solution for office communication. This application facilitates seamless messaging between employees, even across different networks by utilizing a client-server architecture.
+Welcome to the **Internal Office Messaging App**, a  solution for office communication. This application allows for messaging between employees, even across different networks by utilizing a client-server architecture.
 
 ---
 
 ## 🌟 Features
 
-- **Real-Time Messaging**: Instant communication with colleagues in real time.
+- **Real-Time Messaging**: Communication with colleagues in real time.
 - **Network Flexibility**: Operates across different networks by hosting the server on a cloud platform.
-- **User-Friendly Interface**: Simple and intuitive design for ease of use.
+- **User-Friendly Interface**: Simple design for ease of use.
 
 ## 🚀 Getting Started
 
@@ -97,22 +88,6 @@ server.listen(LISTENER_LIMIT)
 # Accepts and handles new clients in a separate thread
 threading.Thread(target=client_handler, args=(client,)).start()
 ```
-
----
-
-## 🛠 Project Structure
-
-```plaintext
-Messaging-App/
-├── client.py       # Client-side application
-├── server.py       # Server-side application
-└── README.md       # Project documentation
-```
-
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
 

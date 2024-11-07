@@ -1,0 +1,8 @@
+
+# requirements.txt
+
+# Note: This project primarily uses standard Python libraries.
+# Ensure Python 3.x is installed for:
+# - socket (networking)
+# - threading (multithreading)
+# - tkinter (GUI - pre-installed with Python on most systems)
